@@ -8,7 +8,7 @@ body{
     background-color: rgb(13, 85, 167);
     padding:20px;
     margin-top:10pc;
-    height:25pc;
+    height:23pc;
     width:500px !important;
     border-radius:1pc;
 }
@@ -30,12 +30,42 @@ span{
 }
 
 input{
-    padding:10px;
+    padding:5px;
     width:100%;
     font-size: 18px;
 }
 .btn{
     height:3pc;
-    width: 100%;
-    margin:40px 10px 0px 0px;
+    width: 45%;
+    margin:30px 10px 10px 0px;
+    border-radius: 10px;
+}
+
+.cuadro_logo{
+    background-color: rgba(10, 107, 94, 0.37);
+    width:100px !important;
+    border-radius:5pc;
+}
+
+.logo{
+    height:230px;
+    width: 250px;
+    padding:10px;
+    margin-top: 20px;
+    text-align: center;
+
+}
+
+.text_footer {
+    background-color:#242829af;
+    color: aliceblue;
+    width:100%;
+    height:100%;
+    padding:20px;
+    text-align:center;
+ 
+ }
+
+ .cuadro_footer{
+    height:150px !important;
 }
