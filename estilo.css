@@ -1,0 +1,41 @@
+body{
+    background-image: url("https://www.rosario3.com/__export/1586346976811/sites/rosario3/img/2020/04/08/antenas.jpg_820697298.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+.bloque-inicio{
+    background-color: rgb(13, 85, 167);
+    padding:20px;
+    margin-top:10pc;
+    height:25pc;
+    width:500px !important;
+    border-radius:1pc;
+}
+
+.login-titulo{
+    background-color: rgb(9, 181, 211);
+    color: aliceblue;
+    padding:10px;
+    border-radius:1pc;
+    text-align: center;
+
+}
+span{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 20px;
+    font-size:28px;
+    color: aliceblue;
+
+}
+
+input{
+    padding:10px;
+    width:100%;
+    font-size: 18px;
+}
+.btn{
+    height:3pc;
+    width: 100%;
+    margin:40px 10px 0px 0px;
+}
